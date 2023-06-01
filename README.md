@@ -1,3 +1,6 @@
+# Example
+![animation](https://github.com/SaulMoreyra/react-native-swipe-list/assets/43731088/9eaeef52-bb4d-461f-8510-8f0ff1b536f6)
+
 # TypeScript Example
 
 <p>
